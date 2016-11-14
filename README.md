@@ -1,10 +1,10 @@
 # MFG Labs iconset with SVG sprites
-This is a fork of the font icon "[MFG Labs](https://github.com/MfgLabs/mfglabs-iconset)" using SVG Sprites.
+This is a fork of the font "[MFG Labs icon](https://github.com/MfgLabs/mfglabs-iconset)" using SVG Sprites.
 
-## How to use it
+## How to use it?
 First download the file `sprite.svg`
-In your html file you just need to use the SVG tag.
-You need to use the good path to your SVG file and then use an icon id.
+Then in your html file you just need to use the SVG tag.
+You need to use the good path to your SVG file and use an icon id.
 
 ```html
 <svg width="30" height="30">
